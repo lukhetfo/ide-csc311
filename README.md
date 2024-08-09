@@ -7,5 +7,5 @@ Any queries or request for clarification may be sent to the author
 
 Author: Enock Lukhetfo Dube
 email : lukhetfomzomba@gmail.com
-Institute of Distance Education
+Institute of Distance Education;
 University of Eswatini
