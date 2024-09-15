@@ -1,7 +1,12 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *******************************************************
+ * 2019 (C) EL Dube Enterprises
+ * Free and Open Source License Granted by the developer 
+ *
+ * Developed By: Enock Lukhetfo Dube
+ *               Department of Computer Science
+ *               University of Eswatini
+ *******************************************************
  */
 package com.dube.main;
 
