@@ -2,7 +2,7 @@
 
 /*
  *******************************************************
- * 2019 (C) EL Dube Enteprises
+ * 2019 (C) EL Dube Enterprises
  * Free and Open Source License Granted by the developer 
  *
  * Developed By: Enock Lukhetfo Dube
